@@ -1,1 +1,1 @@
-# CUSTOMER-CHURN-OF-TELECOM
+# Telecom Customer Churn Prediction using Machine Learning.
